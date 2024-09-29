@@ -1,0 +1,18 @@
+
+.inputSection {
+    background-color: #2F3C7E;
+}
+
+.resultSection {
+    background-color: #FBEAEB;
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#convertedDegree {
+    font-size: xx-large;
+    font-weight: bold;
+}
